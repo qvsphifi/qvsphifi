@@ -22,15 +22,12 @@ focus:
   - Artificial Intelligence
   - Web Development
 ```
-
-🔥 Streak
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=qvsphifi&theme=tokyonight&hide_border=true">
 
 </div>
 
-📈 Contribution Graph
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=qvsphifi&theme=tokyo-night&hide_border=true">
