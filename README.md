@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**qvsphifi/qvsphifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Phifi ✦
 
-Here are some ideas to get you started:
+### Developer • Programmer • UX/UI Designer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8A2BE2&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=40&fontColor=ffffff"/>
+
+</div>
+
+
+## 👨‍💻 About me
+
+```yaml
+name: Phifi
+role: Developer
+focus:
+  - Software Development
+  - Artificial Intelligence
+  - Programming
+  - Open Source
