@@ -4,12 +4,6 @@
 
 <br>
 
-<h1>hello, world.</h1>
-
-<p>
-<code>code. create. inspire.</code>
-</p>
-
 <img src="https://komarev.com/ghpvc/?username=qvsphifi&color=8A2BE2">
 
 </div>
