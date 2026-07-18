@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="./about.png" width="75%">
+<img src="./about.png" width="700">
 
 </div>
 
