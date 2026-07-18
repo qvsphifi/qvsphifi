@@ -19,3 +19,16 @@ focus:
   - Artificial Intelligence
   - Programming
   - Open Source
+🛠 Technologies
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,mysql,git,linux,vscode"/>
+📊 Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=qvsphifi&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qvsphifi&layout=compact&theme=tokyonight"/>
+🔥 Streak
+<img src="https://streak-stats.demolab.com?user=qvsphifi&theme=tokyonight"/>
+🚀 Projects
+🔹 Proyecto 1
+🔹 Proyecto 2
+🔹 Proyecto 3
+<div align="center">
+Thanks for visiting ⭐
+</div> ``
