@@ -23,13 +23,7 @@ focus:
   - Web Development
 ```
 📊 Github Stats
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=qvsphifi&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qvsphifi&layout=compact&theme=toky
-
-</div>
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=qvsphifi&show_icons=true&theme=github_dark&hide_border=true"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qvsphifi&layout=compact&theme=github_dark&hide_border=true"/> </div>
 
 🔥 Streak
 <div align="center">
