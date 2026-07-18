@@ -22,14 +22,7 @@ focus:
   - Artificial Intelligence
   - Web Development
 ```
-<div align="center">
+<div align="center"> <img src="https://streak-stats.demolab.com?user=qvsphifi&theme=tokyonight&hide_border=true"> </div>
 
-<img src="https://streak-stats.demolab.com?user=qvsphifi&theme=tokyonight&hide_border=true">
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=qvsphifi&bg_color=090014&color=D8B4FE&line=A855F7&point=C084FC&area=true&hide_border=true"> </div>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=qvsphifi&theme=tokyo-night&hide_border=true">
-
-</div>
