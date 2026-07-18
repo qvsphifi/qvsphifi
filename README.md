@@ -14,12 +14,6 @@
 
 <div align="center">
 
-<img src="./about.png" width="700">
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=qvsphifi&background=090014&ring=A855F7&fire=D8B4FE&currStreakLabel=C084FC&sideLabels=D8B4FE&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=A855F7&hide_border=true">
 
 </div
