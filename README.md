@@ -11,17 +11,12 @@
 
 ---
 
-## 👨‍💻 About Me
 
-```text
-name: Phifi
-role: Developer
-design: UX/UI
-focus:
-  - Software Development
-  - Artificial Intelligence
-  - Web Development
-```
+<div align="center">
+
+<img src="./about.png" width="100%">
+
+</div>
 
 <div align="center">
 
