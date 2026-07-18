@@ -22,11 +22,14 @@ focus:
   - Artificial Intelligence
   - Web Development
 ```
+#STREAK
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=qvsphifi&background=090014&ring=A855F7&fire=D8B4FE&currStreakLabel=C084FC&sideLabels=D8B4FE&sideNums=A855F7&dates=8A2BE2&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=qvsphifi&background=090014&ring=A855F7&fire=D8B4FE&currStreakLabel=C084FC&sideLabels=D8B4FE&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=A855F7&hide_border=true">
 
-</div>
-
+</div
+  
+#GRAPH
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=qvsphifi&bg_color=090014&color=D8B4FE&line=A855F7&point=C084FC&area=true&hide_border=true"> </div>
 
